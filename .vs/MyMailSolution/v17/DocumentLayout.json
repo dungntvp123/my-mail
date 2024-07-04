@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmcompose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmcompose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmcompose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmcompose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\dbcontext\\stockdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\dbcontext\\stockdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\dao\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\dbcontext\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\dbcontext\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\dao\\deliverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\dao\\deliverdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\mymailwinapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\mymailwinapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmmaildetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmmaildetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\datarepository\\deliverrepository\\deliverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\datarepository\\deliverrepository\\deliverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\datarepository\\deliverrepository\\ideliverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\datarepository\\deliverrepository\\ideliverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmmaildetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmmaildetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\dao\\maildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\dao\\maildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\datarepository\\mailrepository\\mailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\datarepository\\mailrepository\\mailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\datarepository\\mailrepository\\imailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\datarepository\\mailrepository\\imailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\entity\\deliver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\entity\\deliver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\datarepository\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\datarepository\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\datarepository\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\datarepository\\userrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|e:\\self-project\\c_sharp\\mymailsolution\\frmmymail\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC40E1B1-982F-42D6-A080-B20C67080C0E}|frmMyMail\\MyMailWinApp.csproj|solutionrelative:frmmymail\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|e:\\self-project\\c_sharp\\mymailsolution\\mymaillibrary\\entity\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF0FB0E-0005-4451-84F3-D721E450F600}|MyMailLibrary\\MyMailLibrary.csproj|solutionrelative:mymaillibrary\\entity\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDeliverRepository.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\DeliverRepository\\IDeliverRepository.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DataRepository\\DeliverRepository\\IDeliverRepository.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\DeliverRepository\\IDeliverRepository.cs",
+              "RelativeToolTip": "MyMailLibrary\\DataRepository\\DeliverRepository\\IDeliverRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMainPage.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMainPage.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmMainPage.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMainPage.cs",
+              "RelativeToolTip": "frmMyMail\\frmMainPage.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAxwK0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCompose.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmCompose.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmCompose.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmCompose.cs",
+              "RelativeToolTip": "frmMyMail\\frmCompose.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAswFAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMainPage.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMainPage.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmMainPage.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMainPage.cs",
+              "RelativeToolTip": "frmMyMail\\frmMainPage.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\dao\\UserDAO.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\dao\\UserDAO.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\dao\\UserDAO.cs",
+              "RelativeToolTip": "MyMailLibrary\\dao\\UserDAO.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAQwPIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCompose.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmCompose.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmCompose.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmCompose.cs",
+              "RelativeToolTip": "frmMyMail\\frmCompose.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyMailWinApp.csproj",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\MyMailWinApp.csproj",
+              "RelativeDocumentMoniker": "frmMyMail\\MyMailWinApp.csproj",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\MyMailWinApp.csproj",
+              "RelativeToolTip": "frmMyMail\\MyMailWinApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-04T02:21:25.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockDataProvider.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DBContext\\StockDataProvider.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DBContext\\StockDataProvider.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DBContext\\StockDataProvider.cs",
+              "RelativeToolTip": "MyMailLibrary\\DBContext\\StockDataProvider.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwDsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseDAL.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DBContext\\BaseDAL.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DBContext\\BaseDAL.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DBContext\\BaseDAL.cs",
+              "RelativeToolTip": "MyMailLibrary\\DBContext\\BaseDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\appsettings.json",
+              "RelativeDocumentMoniker": "frmMyMail\\appsettings.json",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\appsettings.json",
+              "RelativeToolTip": "frmMyMail\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-04T02:21:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\Program.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\Program.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\Program.cs",
+              "RelativeToolTip": "frmMyMail\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeliverDAO.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\dao\\DeliverDAO.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\dao\\DeliverDAO.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\dao\\DeliverDAO.cs",
+              "RelativeToolTip": "MyMailLibrary\\dao\\DeliverDAO.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeliverRepository.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\DeliverRepository\\DeliverRepository.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DataRepository\\DeliverRepository\\DeliverRepository.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\DeliverRepository\\DeliverRepository.cs",
+              "RelativeToolTip": "MyMailLibrary\\DataRepository\\DeliverRepository\\DeliverRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMailDetail.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMailDetail.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmMailDetail.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMailDetail.cs",
+              "RelativeToolTip": "frmMyMail\\frmMailDetail.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmMailDetail.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMailDetail.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmMailDetail.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmMailDetail.cs",
+              "RelativeToolTip": "frmMyMail\\frmMailDetail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MailRepository.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\MailRepository\\MailRepository.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DataRepository\\MailRepository\\MailRepository.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\MailRepository\\MailRepository.cs",
+              "RelativeToolTip": "MyMailLibrary\\DataRepository\\MailRepository\\MailRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IMailRepository.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\MailRepository\\IMailRepository.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DataRepository\\MailRepository\\IMailRepository.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\MailRepository\\IMailRepository.cs",
+              "RelativeToolTip": "MyMailLibrary\\DataRepository\\MailRepository\\IMailRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmLogin.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmLogin.cs",
+              "RelativeToolTip": "frmMyMail\\frmLogin.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAzwCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MailDAO.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\dao\\MailDAO.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\dao\\MailDAO.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\dao\\MailDAO.cs",
+              "RelativeToolTip": "MyMailLibrary\\dao\\MailDAO.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAwCsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Deliver.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\entity\\Deliver.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\entity\\Deliver.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\entity\\Deliver.cs",
+              "RelativeToolTip": "MyMailLibrary\\entity\\Deliver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\UserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DataRepository\\UserRepository\\IUserRepository.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\UserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "MyMailLibrary\\DataRepository\\UserRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\UserRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\DataRepository\\UserRepository\\UserRepository.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\DataRepository\\UserRepository\\UserRepository.cs",
+              "RelativeToolTip": "MyMailLibrary\\DataRepository\\UserRepository\\UserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmMyMail\\frmLogin.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\frmMyMail\\frmLogin.cs",
+              "RelativeToolTip": "frmMyMail\\frmLogin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\entity\\Mail.cs",
+              "RelativeDocumentMoniker": "MyMailLibrary\\entity\\Mail.cs",
+              "ToolTip": "E:\\Self-Project\\C_Sharp\\MyMailSolution\\MyMailLibrary\\entity\\Mail.cs",
+              "RelativeToolTip": "MyMailLibrary\\entity\\Mail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:21:25.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

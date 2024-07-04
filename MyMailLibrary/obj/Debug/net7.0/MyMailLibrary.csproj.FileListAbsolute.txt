@@ -1,0 +1,12 @@
+E:\C_Sharp\MyMailSolution\MyMailLibrary\bin\Debug\net7.0\MyMailLibrary.deps.json
+E:\C_Sharp\MyMailSolution\MyMailLibrary\bin\Debug\net7.0\MyMailLibrary.dll
+E:\C_Sharp\MyMailSolution\MyMailLibrary\bin\Debug\net7.0\MyMailLibrary.pdb
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.csproj.AssemblyReference.cache
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.AssemblyInfoInputs.cache
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.AssemblyInfo.cs
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.csproj.CoreCompileInputs.cache
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.dll
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\refint\MyMailLibrary.dll
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\MyMailLibrary.pdb
+E:\C_Sharp\MyMailSolution\MyMailLibrary\obj\Debug\net7.0\ref\MyMailLibrary.dll
